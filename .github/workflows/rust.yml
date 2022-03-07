@@ -21,6 +21,6 @@ jobs:
     - name: Run tests
       run: cargo test --verbose
     - name: Navigate to the build directory
-      run: cd validator
+      run: cd /validator
     - name: start the solana validator
       run: solana-test-validator
