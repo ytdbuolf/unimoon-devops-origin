@@ -42,8 +42,8 @@ $ sudo apt-get install libssl-dev libudev-dev pkg-config zlib1g-dev llvm clang m
 ## **2. Download the source code.**
 
 ```bash
-$ git clone https://github.com/solana-labs/solana.git
-$ cd solana
+$ git clone https://github.com/UNIMOONnetwork/unimoon-chain-devops.git
+$ cd unimoon-chain-devops
 ```
 
 ## **3. Build.**
