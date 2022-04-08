@@ -1114,7 +1114,7 @@
     buffer-layout "^1.2.0"
     tweetnacl "^1.0.3"
 
-"@bonfida/spl-name-service@^0.1.22":
+"@bonfida/spl-name-service@^0.1.27":
   version "0.1.27"
   resolved "https://registry.yarnpkg.com/@bonfida/spl-name-service/-/spl-name-service-0.1.27.tgz#738bcabcfe9c231f72fce6ce646b0fdabc12003d"
   integrity sha512-CH53CjPkCLB+6j9Dl+4i1LEWUBDFZIXgBVlUsGxZQeN5ztH73i05jiZ1B50v23YDiIm88SO8+gUw7SQS98WsNg==
